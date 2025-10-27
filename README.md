@@ -20,7 +20,7 @@ Capture and Analyze Network Traffic Using Wireshark.
    - This generated HTTP, DNS, and ICMP packets.
 
 4. **Stopped Capture**
-   - After about one minute, clicked the **red square (🟥)** icon to stop capturing.
+   - After about one minute, clicked the **red square** icon to stop capturing.
 
 5. **Filtered Packets by Protocol**
    - Used Wireshark display filters:
@@ -37,7 +37,7 @@ Capture and Analyze Network Traffic Using Wireshark.
 
 ---
 
-## 📊 Findings and Analysis
+## Findings and Analysis
 
 | **Protocol** | **Function** | **Observation** |
 |---------------|---------------|----------------|
@@ -62,6 +62,6 @@ The capture reflects typical user internet activity:
 
 ---
 
-## 🧾 Conclusion
+## Conclusion
 This exercise successfully demonstrated the process of capturing and analyzing live network traffic using Wireshark.  
 Multiple protocols were identified and studied, showing how different layers of the OSI model interact in real-time network communication.
